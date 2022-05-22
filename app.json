@@ -1,6 +1,6 @@
 {
     "name": "HX",
-    "description": "Powered By Misaka-blog",
+    "description": "It is own",
     "keywords": [],
     "env": {
         "TYPE": {
@@ -12,7 +12,7 @@
             "value": "82645f00-ac3f-44d3-bd87-741c738f4ec9"
         }
     },
-    "website": "https://owo.misaka.rest",
-    "repository": "https://github.com/Misaka-blog/HX",
+    "website": "https://google.com",
+    "repository": "https://github.com/qhyc/HX",
     "stack": "container"
 }
